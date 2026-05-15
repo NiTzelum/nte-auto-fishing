@@ -43,7 +43,7 @@ python fishing_bot.py
 | `F7` | RGB цвет под курсором |
 | `F8` | Скриншот полоски (`bar_debug.png`) |
 | `F9` | Скриншот полного экрана |
-| `ESC` | Выход |
+| `F4` | Выход |
 
 ---
 
@@ -85,7 +85,7 @@ python fishing_bot.py
 | `F7` | RGB color under cursor |
 | `F8` | Bar screenshot (`bar_debug.png`) |
 | `F9` | Full screen screenshot |
-| `ESC` | Exit |
+| `F4` | Exit |
 
 ---
 
